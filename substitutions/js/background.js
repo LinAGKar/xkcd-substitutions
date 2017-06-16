@@ -67,7 +67,13 @@ var default_replacements = [
   ['forces', 'horses'],
 
   //https://xkcd.com/1004/
-  ['batman', 'a man dressed like a bat']
+  ['batman', 'a man dressed like a bat'],
+  
+  //https://xkcd.com/1851/
+  ['magic', 'magnetohydrodynamics'],
+  ['magical', 'magnetohydrodynamic'],
+  ['magnetohydrodynamics', 'magic'],
+  ['magnetohydrodynamic', 'magical'],
 ];
 //Default Blacklist
 var default_blacklisted_sites = [
